@@ -1,0 +1,8 @@
+.logo{
+    margin: 50px 50px auto;
+    align-items: center;
+}
+
+.logo img {
+    border-radius: 50%;  
+}
